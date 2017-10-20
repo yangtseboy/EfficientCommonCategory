@@ -1,0 +1,6 @@
+framework module EfficientCommonCategory {
+  umbrella header "EfficientCommonCategory-umbrella.h"
+
+  export *
+  module * { export * }
+}
